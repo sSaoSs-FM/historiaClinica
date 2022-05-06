@@ -9,7 +9,77 @@
       "Requerido": 1,
       "Orden": 1,
       "ValorDefecto": "Urbano"
-    }
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "Dieta",
+      "NombreEtiqueta": "¿Cuantas Comidas al dia?",
+      "Tipo": "Entero",
+      "Requerido": 1,
+      "Orden": 2,
+      "ValorDefecto": "3"
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "Animales",
+      "NombreEtiqueta": "¿Convive con Perro Gato y/o animales de granja?",
+      "Tipo": "Texto Corto",
+      "Requerido": 1,
+      "Orden": 3,
+      "ValorDefecto": "No"
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "Toxicomanias",
+      "NombreEtiqueta": "A sufrido de Alcoholismo, tabaquismo, o consumido Drogas?",
+      "Tipo": "SiNo",
+      "Requerido": 1,
+      "Orden": 4,
+      "ValorDefecto": "No"
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "Etnia",
+      "NombreEtiqueta": "Etnia",
+      "Tipo": "ListaDesplegable",
+      "Requerido": 0,
+      "Orden": 5,
+      "ValorDefecto": "Mestizo"
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "Religion",
+      "NombreEtiqueta": "Religion",
+      "Tipo": "Texto Corto",
+      "Requerido": 0,
+      "Orden": 6,
+      "ValorDefecto": "Catolico"
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "ActividadFisica",
+      "NombreEtiqueta": "Actividad Fisica",
+      "Tipo": "SiNo",
+      "Requerido": 1,
+      "Orden": 7,
+      "ValorDefecto": "Si"
+    },
+    {
+      "IdCentromedico": 1,
+      "IdSeccion": 1,
+      "Codigo": "RiesgoLaboral",
+      "NombreEtiqueta": "Riesgo Laboral",
+      "Tipo": "Texto Corto",
+      "Requerido": 1,
+      "Orden": 8,
+      "ValorDefecto": ""
+    },
   ],
   "profile": {
     "name": "sSaoSs-FM"
