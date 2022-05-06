@@ -1,32 +1,9 @@
 {
   "1": [
-    {
-      "Codigo": "Vivienda",
-      "NombreEtiqueta": "Vivienda",
-      "Tipo": "ListaDesplegable",
-      "Requerido": 1,
-      "Orden": 1,
-      "ValorDefecto": "Urbano"
-    },
-    {
-      "Codigo": "Vivienda",
-      "NombreEtiqueta": "Vivienda",
-      "Tipo": "ListaDesplegable",
-      "Requerido": 1,
-      "Orden": 1,
-      "ValorDefecto": "Urbano"
-    },
-    {
-      "Codigo": "Vivienda",
-      "NombreEtiqueta": "Vivienda",
-      "Tipo": "ListaDesplegable",
-      "Requerido": 1,
-      "Orden": 1,
-      "ValorDefecto": "Urbano"
-    }
+    "1": [],
+    "2": [],
+    "3": []
   ],
-  "2": [],
-  "3": [],
   "profile": {
     "name": "sSaoSs-FM"
   }
