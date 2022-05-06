@@ -78,7 +78,7 @@
       "Tipo": "Texto Corto",
       "Requerido": 1,
       "Orden": 8,
-      "ValorDefecto": ""
+      "ValorDefecto": " "
     }
   ],
   "profile": {
